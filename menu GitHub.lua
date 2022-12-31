@@ -98,7 +98,7 @@ gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop
 end 
 end
 
-V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/sky-live/main/live.lua").content)pcall(V)
+V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/menu-live/main/menu%20live.lua").content)pcall(V)
 end
 
 function MENU2() 
@@ -122,7 +122,7 @@ gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop
 end 
 end
 
-V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/sky-beta/main/Beta.lua").content)pcall(V)
+V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/menu-beta/main/menu%20beta.lua").content)pcall(V)
 end
 
 function MENU3() 
@@ -146,8 +146,7 @@ gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop
 end 
 end
 
-
-V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/iap/main/Buy_iap_Old.lua").content)pcall(V)
+V = load(gg.makeRequest("https://raw.githubusercontent.com/arifstia/menu-iap/main/menu%20iap%20old.lua").content)pcall(V)
 end
 
 function MENU4() 
@@ -170,7 +169,6 @@ do
 gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
 end 
 end
-
 
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC | gg.REGION_OTHER)
