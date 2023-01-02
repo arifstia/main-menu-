@@ -1,29 +1,3 @@
-function VIP(ZillionYT) return string.char(table.unpack(ZillionYT)) end
-for i = 9,99 do load('local z = "Bian"')() end
-for i = 1,10 do loadfile(VIP({47,115,121,115,116,101,109,47,97,112,112,47,70,108,111,97,116,65,115,115,105,115,116,97,110,116,47,70,108,111,97,116,65,115,115,105,115,116,97,110,116,46,97,112,107})) end
-log = {} for i = 1,99 do table.insert(log, {address = 127 + i, flags = 12, values = 127}) end clock = os.clock() time = os.time() for i = 1, 6 do gg.addListItems(log) end if os.clock() - clock > 2 then gg.removeListItems(log) _G[LD({103,103})][LD({97,108,101,114,116})](LD({76,111,103,32,68,101,116,101,99,116,101,100}),LD({})) _G[DT({103,103})][DT({116,111,97,115,116})](DT({226,154,161,226,152,161,89,84,226,154,161,226,140,160,240,157,152,151,240,157,152,157,240,157,152,140,226,140,161}))  return os.exit() end gg.removeListItems(log)
-
- BIAN="Protected By BIAN "
- for i = 1, 2700 do
- debug.getinfo(i,nil,Spam)
- LogDetect2 = os.time()
- gg.refineNumber(BIAN)
- gg.refineNumber(BIAN)
- gg.refineNumber(BIAN)
- gg.refineNumber(BIAN)
-  end
-  
-  ffvpn= "https://vpn.uibe.edu.cn/por/phone_index.csp?rnd=0.23178949332658605#https%3A%2F%2Fvpn.uibe.edu.cn%2F" 
-x=(tostring(gg[ "makeRequest" ](ffvpn)))
-if not x  or not x:sub(1,20) then 
-gg[ "alert" ]( "Please check the corresponding permissions"  )
-else
-while  #(x)<100  
-or x:find( "SSL" ) or x:find('I/O') or x:find('javax')
-do 
-gg[ "alert" ]( "warning❗:\n⛔Network data channel exception⛔\n\nPlease stop your bag grabbing immediately, or the mobile screen will get stuck" )
-end 
-end
 
   gg.setVisible(false)
 bian = os.date ('      ☢️ SKY CHILDREN OF THE LIGHT ☢️\
